@@ -30,7 +30,7 @@ You can run bash (or terminal) commands right from the notebook!
 
 ### Other Helpful Commands
 
-* **Help Menu** `esc + h`
+* **Help Menu** `esc, h`
 
 * **Save Notebook** `command + s`
 
