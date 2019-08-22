@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> Python 3. For better practice in HackerRank.
+>> Python 3. For better practice in HackerRank. 
 
 ### Q2. Which Python Version Installed   
 
@@ -55,7 +55,7 @@ In the Terminal:
 
 `python3 --version`
 
->> Python 3.7.3
+>> Python 3.7.4 
 
 
  
