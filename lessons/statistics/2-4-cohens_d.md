@@ -1,6 +1,6 @@
 [Think Stats Chapter 2 Exercise 4](http://greenteapress.com/thinkstats2/html/thinkstats2003.html#toc24) (Cohen's d)
 
-#### 1. Investigate whether first ba- bies are lighter or heavier than others, compute Cohen's d:
+### 1. Investigate whether first ba- bies are lighter or heavier than others, compute Cohen's d:
 * First, calculate the mean birth weight for 2 groups & take the difference
 * Second, compare the two means by computing Cohen's d. 
 
@@ -26,6 +26,6 @@ print(wgt_CohenD)
 Cohen's d equals -0.089.  
 The mean weight for first babies is 0.0887 standard deviations lower than others, which is small.
 
-#### 2. How is that compare to the difference in pregnancy length?
+### 2. How is that compare to the difference in pregnancy length?
 Compare the absolute values of two Cohen's d's: 0.089 > 0.029.  
 The difference in birth weight is larger than in pregnancy length. 
