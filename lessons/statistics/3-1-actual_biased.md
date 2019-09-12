@@ -20,5 +20,5 @@ thinkplot.Config(xlabel='Household Size', ylabel='frequency')
 unbiased_pmf.Mean()
 biased_pmf.Mean()
 ```
-![sdf](img/actual_vs_biased.png)
+![sdf](https://github.com/Xinxin-Jiang/dsp/blob/dsp_adding_notes/img/actual_vs_biased.png)  
 The actual mean is 1.024. The biased mean from survey is 2.404, more than twice of the actual.
